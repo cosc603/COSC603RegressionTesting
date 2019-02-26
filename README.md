@@ -1,1 +1,1 @@
-COSC603RegressionTesting
+COSC603 Regression Testing Exercise
